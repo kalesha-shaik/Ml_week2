@@ -24,11 +24,11 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON.
 [![ML_week2](https://img.youtube.com/vi/WCSz0R_Io8s/0.jpg)](https://www.youtube.com/watch?v=WCSz0R_Io8s)
 
 # Block Diagram
+Hae
 
 # Tools and Computer languages that we used for this Chatbot
 1) vs code
 2) HTML, CSS, Java Script
-
 
 # References
 [reference link for javascript](https://www.w3schools.com/js/DEFAULT.asp)
