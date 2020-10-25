@@ -21,6 +21,8 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON.
  So this bot helps to the restaurants to save money and time. now by this bot no.of servers will be decreased.
 # Youtube link 
 
+[![ML_week2](https://img.youtube.com/vi/WCSz0R_Io8s/0.jpg)](https://www.youtube.com/watch?v=WCSz0R_Io8s)
+
 # Block Diagram
 
 # Tools and Computer languages that we used for this Chatbot
