@@ -1,4 +1,4 @@
-# ml_week2
+# Ml_week2
 A simple chatbot using HTML, CSS, JAVASCRIPT and JSON.
 
 # Team Mates
@@ -6,7 +6,6 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON.
 2) 18pa1a05g4 - 18pa1a05g4@vishnu.edu.in
 
 # steps to use chatbot
-
 1) Open the resturent Chatbot.
 2) Type anything to start
 3) Enter your name 
@@ -17,6 +16,9 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON.
 8) and wait for the food.
 9) if you like the experience with bot. plese thank the bot.
 
+# Discription of My Chatbot.
+ Now a days every restaurants having more than 10 people to take orders from the Customer. So this bot simply takes input from the Customer at the Entry of the Resturant and those information will be displayed to the chef. so that there will be no time waste to take orders from the Customers. and food will be served immidiatly after going to the table.
+ So this bot helps to the restaurants to save money and time. now by this bot no.of servers will be decreased.
 # Youtube link 
 
 # Block Diagram
