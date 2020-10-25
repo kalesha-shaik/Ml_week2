@@ -1,0 +1,115 @@
+body{
+  background-color: antiquewhite;
+}
+.total{
+  padding: 70px;
+  background: url("https://images2.alphacoders.com/862/862730.jpg") no-repeat center center fixed; 
+  background-size: cover;
+  background-color: aqua;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.class1{
+  padding: 10px;
+  background-color: aqua;
+  text-align: center;
+  width: 100%;
+  border-radius: 10px;
+  background-color: rgba(21, 7, 222,0.7);
+  border: 2px;
+  margin: auto;
+  /* border-radius: 35px; */
+  color: white;
+  animation: myanimation 2s infinite;
+}
+@keyframes myanimation {
+  0% {background-color: rgba(105, 92, 93, 0.7);}
+  25%{background-color:rgba(21, 7, 222,0.7);}
+  50%{background-color:rgba(209, 245, 9, 0.7);}
+  100% {background-color: rgba(9, 232, 57, 0.7);}
+}
+
+.class2{
+  width:100px;
+  height:100px;
+  border-radius:50%;
+  margin:auto;
+  margin-top:20px;
+}
+
+.firstmsg {
+  background: #f51d57;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 5px;
+  color: white;
+  border: 3px ;
+}
+
+.secondmessage {
+  background: #f5f759;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-top: 40px;
+  border: 3px ;
+}
+
+#box {
+
+  background: aqua;
+  padding: 10px;
+  border-radius: 10px;
+  width: 100%;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top:10%;
+  /* border: 4px; */
+  font-size: 20px;
+  font-weight: bold; 
+}
+
+.user {
+  color: red;
+  text-align: right;
+}
+
+#input {
+  margin-top: 10px;
+  margin-left: 50%;
+  width: 50%;
+  border-radius: 10px;
+  box-sizing: border-box;
+  height:40px;
+  font-size: 15px; 
+}
+
+#hidden{
+  display: none;
+}
+/* 
+iframe,img{
+  margin:10px;
+  width:300px;
+  height:300px;
+  display:block;
+} */
+/* 
+.image{
+  border-radius:50%;
+  width:70px;
+  height:70px;
+  transform: scaleX(-1);  
+  border:2px white solid;
+}
+
+.userimg{
+  border-radius:50%;
+  width:70px;
+  height:70px;
+  display: block; 
+  border:2px white solid;
+} */
+
