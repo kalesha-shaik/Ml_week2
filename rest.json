@@ -1,0 +1,27 @@
+var rest = {
+	"food_items":{
+		"biryani" : "if you want to add another item type 'yes' else 'no'",
+		"roti" : "if you want to add another item type 'yes' else 'no'",
+		"icecream" : "if you want to add another item type 'yes' else 'no'",
+		"vegrice" : "if you want to add another item type 'yes' else 'no'",
+	},
+	"yesorno":{
+		"yes" : "please enter the item you want to eat biryani, icecream, roti, vegrice, these are available now.",
+		"no" : "please tell us how many are you..?  maximum limit per table is 6."
+	},
+	"tables":{
+		"1" : "please select a table. 10,14,20,19,26 these are availble as per your requirements",
+		"2" : "please select a table. 10,14,20,19,26 these are availble as per your requirements",
+		"3" : "please select a table. 10,14,20,19,26 these are availble as per your requirements",
+		"4" : "please select a table. 10,14,20,19,26 these are availble as per your requirements",
+		"5" : "please select a table. 10,14,20,19,26 these are availble as per your requirements",
+		"6" : "please select a table. 10,14,20,19,26 these are availble as per your requirements"
+	},
+	"booking":{
+		"10" : "Thank you we booked 10 table for you. food will be prepared and bring to your table soon.",
+		"14" : "Thank you we booked 10 table for you. food will be prepared and bring to your table soon.",
+		"20" : "Thank you we booked 10 table for you. food will be prepared and bring to your table soon.",
+		"19" : "Thank you we booked 10 table for you. food will be prepared and bring to your table soon.",
+		"26" : "Thank you we booked 10 table for you. food will be prepared and bring to your table soon.",
+	}
+};
