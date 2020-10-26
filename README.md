@@ -24,7 +24,8 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON.
 [![ML_week2](https://img.youtube.com/vi/WCSz0R_Io8s/0.jpg)](https://www.youtube.com/watch?v=WCSz0R_Io8s)
 
 # Block Diagram
-![download](https://user-images.githubusercontent.com/72965089/97198884-5cf58800-17d5-11eb-8fa0-6c3d4503e2db.jpg)
+![Blank diagram](https://user-images.githubusercontent.com/72965089/97199333-e73dec00-17d5-11eb-9725-00906559fb7e.png)
+
 
 # Try our bot here
 [try my bot here](https://MLweek2.kalesha.repl.co)
