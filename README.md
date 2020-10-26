@@ -10,7 +10,7 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON.
 2) Type anything to start
 3) Enter your name 
 4) Enter food you want to eat
-5) Enter 'yes' if you want to add another food item. or type no.
+5) Enter 'yes' if you want to add another food item, or type no.
 6) Tell us how many members are to to display available tables
 7) choose the table that you want.
 8) and wait for the food.
