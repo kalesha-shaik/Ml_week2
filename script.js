@@ -22,11 +22,13 @@ xhttp.send();
 
 
 function taketheinput(event) {
+	// It is the javascript code for input processing ,if you press the enter button
 	if(event.key === "Enter"){
 		messages.innerHTML += user.outerHTML;
 		msgno += 1;
 		messages.lastChild.id = msgno;
 		messages.lastChild.childNodes[3].textContent = input.value;
+		//finally processes the input
 		processinput(input.value.toLowerCase());
 		input.value = "";
 
