@@ -24,7 +24,8 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON.
 [![ML_week2](https://img.youtube.com/vi/WCSz0R_Io8s/0.jpg)](https://www.youtube.com/watch?v=WCSz0R_Io8s)
 
 # Block Diagram
-Hae
+# Try our bot here
+[try my bot here](https://MLweek2.kalesha.repl.co)
 
 # Tools and Computer languages that we used for this Chatbot
 1) vs code
