@@ -5,7 +5,7 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON.
 1) 18pa1a05e7 - 18pa1a05e7@vishnu.edu.in
 2) 18pa1a05g4 - 18pa1a05g4@vishnu.edu.in
 
-# steps to use chatbot
+# Steps to use chatbot
 1) Open the resturent Chatbot.
 2) Type anything to start
 3) Enter your name 
