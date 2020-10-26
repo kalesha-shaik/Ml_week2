@@ -31,7 +31,7 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON.
 [try my bot here](https://MLweek2.kalesha.repl.co)
 
 # Tools and Computer languages that we used for this Chatbot
-1) vs code
+1) Vs code
 2) HTML, CSS, Java Script
 
 # References
